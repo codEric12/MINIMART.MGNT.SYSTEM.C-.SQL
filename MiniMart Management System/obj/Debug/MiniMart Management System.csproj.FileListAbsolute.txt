@@ -1,0 +1,23 @@
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\bin\Debug\MiniMart Management System.exe.config
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\bin\Debug\MiniMart Management System.exe
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\bin\Debug\MiniMart Management System.pdb
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\bin\Debug\Guna.Charts.WinForms.dll
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\bin\Debug\Guna.UI2.dll
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart Management System.csproj.AssemblyReference.cache
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.SplashForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.LoginForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.Properties.Resources.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart Management System.csproj.GenerateResource.cache
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart Management System.csproj.CoreCompileInputs.cache
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart Management System.csproj.CopyComplete
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart Management System.exe
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart Management System.pdb
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.TabsForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.ProductsForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.CategoryForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.SellerForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.SellingForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.supportForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.supportForm1.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.sellersmonitorForm.resources
+D:\2104285 PROJECT\MiniMart Management System\MiniMart Management System\obj\Debug\MiniMart_Management_System.catForm.resources
